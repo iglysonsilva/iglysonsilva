@@ -1,54 +1,51 @@
-# [Iglyson Silva] <img src="https://i.pinimg.com/originals/d7/c9/49/d7c949ba3bcdccbe104f500d8e07642f.gif" width="30px">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=abdbe3&size=35&center=true&vCenter=true&width=1000&lines=Hello!+Welcome+to+Iglyson's+Github)](https://git.io/typing-svg)
-
-<div align="center">
-  
-  <p align='center'>  
-    <a href="https://www.linkedin.com/in/iglyson-silva/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>&nbsp;&nbsp;
-  </p>
-  
-</div>
-
-<h2 >About Me</h2>
-
-I'm a Developer Mobile, currently studying to be a Developer Mobile! Also, I'm studying Systems Developer and many other technologies.
+<h1 align="left">:wave: Olá! Me chamo Iglyson Silva</h1>
+<h4 align="left">Sou desenvolvedor de software Front-End com experiência em construção de aplicações web com React e JavaScript. Também estou aprendendo sobre desenvolvimento Mobile usando Flutter. Adoro acompanhar as novidades tecnológicas. Sinta-se à vontade para me contatar. 👍</h4>
 
 
-<hr>
 
-## Current Stacks:
-
-<div style="display: inline_block">
-  <img align="center" alt="Iglyson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Iglyson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Iglyson-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Iglyson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Iglyson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Iglyson-Vite" height="30" width="40"src="https://vitejs.dev/logo.svg">
-  <img align="center" alt="Iglyson-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Iglyson-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
-</div>
-
-<hr>
-
-## Currently Learning:
-
-<div style="display: inline_block">
-  <img align="center" alt="Iglyson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Iglyson-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />        
-</div>
-
-<hr>
-
-## GitHub Stats :octocat:
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iglysonsilva&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="Github status" />
+<a href="https://github.com/iglysonsilva">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Iglyson Silva&color=faedcd&style=for-the-badge&logo=GitHub">
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iglysonsilva&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" />
+
+
+<img src="https://ouch-cdn2.icons8.com/Xr8zhbChh0bTz1dl_uOGPJc2et2tFaANBAiQIOqTOb4/rs:fit:368:420/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNDk4/L2E2ZmNiYjAzLWE5/ZmQtNGRiYS04ZmEz/LTkzMjg2ZTVjYjA0/Zi5zdmc.png" min-width="200px" max-width="200px" width="250px" align="right">
+
+
+<br>
+
+- :mortar_board: &nbsp;Estudante do curso de Analise e Desenvolvimento de Sistemas no ETE - Porto Digital. Também faço parte da primeira turma da formação em tecnologia do Potência Tech, powered by iFood em parceria com a DevMedia, com foco em programação Full Stack.
+- :seedling: &nbsp;Atualmente, estou aprendendo **JavaScript** e **React.js** para desenvolvimento de projetos Front-End, além de estar aprendendo boas práticas para desenvolvimento de aplicativos mobile usando **Flutter**.
+- :office: &nbsp;Atualmente, estou em busca de oportunidade no cargo de desenvolvimento de software Front-end. Além de estar desenvolvendo melhor meu autoconhecimento.
+- :computer: &nbsp;Gosto de ler e explorar sobre novas tecnologias, especialmente o campo de arquitetura de software e desenvolvimento mobile usando **Flutter**.
+- :postbox: Entre em contato comigo no **[LinkedIn]** ou **[Gmail]**.
+
+<br>
+
+
+
+>:wrench: Ferramentas, linguagens e coisas com as quais gosto de trabalha
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+<a href="#iglysonsilva-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=iglysonsilva&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shades-of-purple" alt="iglysonsilva" align="center" />
 </a>
+
+<!-- Links -->
+
+[linkedin]: https://www.linkedin.com/in/iglyson-silva/ "Iglyson Silva"
+[gmail]: iglysonecsilva@gmail.com
+[github]: https://github.com/iglysonsilva
+
