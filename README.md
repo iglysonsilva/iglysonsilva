@@ -40,7 +40,7 @@
 <br>
 
 <a href="#iglysonsilva-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=iglysonsilva&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shades-of-purple" alt="iglysonsilva" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iglysonsilva&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shades-of-purple" alt="iglysonsilva"/>
 </a>
 
 <!-- Links -->
