@@ -13,7 +13,7 @@
 
 <br>
 
-- :mortar_board: &nbsp;Estudante do curso de Analise e Desenvolvimento de Sistemas no ETE - Porto Digital. Também faço parte da primeira turma da formação em tecnologia do Potência Tech, powered by iFood em parceria com a DevMedia, com foco em programação Full Stack.
+- :mortar_board: &nbsp;Estudante do curso de Desenvolvimento de Sistemas no ETE - Porto Digital. Também faço parte da primeira turma da formação em tecnologia do Potência Tech, powered by iFood em parceria com a DevMedia, com foco em programação Full Stack.
 - :seedling: &nbsp;Atualmente, estou aprendendo **JavaScript** e **React.js** para desenvolvimento de projetos Front-End, além de estar aprendendo boas práticas para desenvolvimento de aplicativos mobile usando **Flutter**.
 - :office: &nbsp;Atualmente, estou em busca de oportunidade no cargo de desenvolvimento de software Front-end. Além de estar desenvolvendo melhor meu autoconhecimento.
 - :computer: &nbsp;Gosto de ler e explorar sobre novas tecnologias, especialmente o campo de arquitetura de software e desenvolvimento mobile usando **Flutter**.
@@ -23,7 +23,7 @@
 
 
 
->:wrench: Ferramentas, linguagens e coisas com as quais gosto de trabalha
+>:wrench: Ferramentas, linguagens e coisas com as quais gosto de trabalhar
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -36,6 +36,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
 
