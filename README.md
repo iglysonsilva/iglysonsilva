@@ -1,6 +1,7 @@
-<h1 align="left">:wave: Olá! Me chamo Iglyson Silva</h1>
-<h4 align="left">Sou desenvolvedor de software Front-End com experiência em construção de aplicações web com React e JavaScript. Também estou aprendendo sobre desenvolvimento Mobile usando Flutter. Adoro acompanhar as novidades tecnológicas. Sinta-se à vontade para me contatar. 👍</h4>
+<h1 align="left">Olá! :wave:</h1>
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iglyson-silva/)](https://www.linkedin.com/in/iglyson-silva/)
+[![Gmail Badge](https://img.shields.io/badge/contato@iglysonsilva.com-D14836?style=flat-the-badge&logo=gmail&logoColor=white&link=mailto:contato@iglysone.silva@gmail.com)](mailto:contato@iglysone.silva@gmail.com)
 
 
 <a href="https://github.com/iglysonsilva">
@@ -11,13 +12,11 @@
 <img src="https://ouch-cdn2.icons8.com/Xr8zhbChh0bTz1dl_uOGPJc2et2tFaANBAiQIOqTOb4/rs:fit:368:420/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNDk4/L2E2ZmNiYjAzLWE5/ZmQtNGRiYS04ZmEz/LTkzMjg2ZTVjYjA0/Zi5zdmc.png" min-width="200px" max-width="200px" width="250px" align="right">
 
 
-<br>
-
+## Me chamo Iglyson Silva
 - :mortar_board: &nbsp;Estudante do curso de Desenvolvimento de Sistemas no ETE - Porto Digital. Também faço parte da primeira turma da formação em tecnologia do Potência Tech, powered by iFood em parceria com a DevMedia, com foco em programação Full Stack.
 - :seedling: &nbsp;Atualmente, estou aprendendo **JavaScript** e **React.js** para desenvolvimento de projetos Front-End, além de estar aprendendo boas práticas para desenvolvimento de aplicativos mobile usando **Flutter**.
 - :office: &nbsp;Atualmente, estou em busca de oportunidade no cargo de desenvolvimento de software Front-end. Além de estar desenvolvendo melhor meu autoconhecimento.
 - :computer: &nbsp;Gosto de ler e explorar sobre novas tecnologias, especialmente o campo de arquitetura de software e desenvolvimento mobile usando **Flutter**.
-- :postbox: Entre em contato comigo no **[LinkedIn]** ou **[Gmail]**.
 
 <br>
 
