@@ -39,9 +39,13 @@
 
 <br>
 
+<div align="center">
 <a href="#iglysonsilva-title">
   <img src="https://github-readme-stats.vercel.app/api?username=iglysonsilva&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shades-of-purple" alt="iglysonsilva"/>
 </a>
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iglysonsilva&layout=compact&hide_border=true&title_color=FAD000&text_color=A599E9&theme=shades-of-purple"/>
+</div>
 
 <!-- Links -->
 
