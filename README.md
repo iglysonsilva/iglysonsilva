@@ -13,9 +13,9 @@
 
 
 ## Me chamo Iglyson Silva
-- :mortar_board: &nbsp;Estudante do curso de Desenvolvimento de Sistemas no ETE - Porto Digital. Também faço parte da primeira turma da formação em tecnologia do Potência Tech, powered by iFood em parceria com a DevMedia, com foco em programação Full Stack.
+- :mortar_board: &nbsp;Sou formado no curso de Desenvolvimento de Sistemas no ETE - Porto Digital. Também faço parte da primeira turma da formação em tecnologia do Potência Tech, powered by iFood em parceria com a DevMedia, com foco em programação Full Stack.
 - :seedling: &nbsp;Atualmente, estou aprendendo **JavaScript** e **React.js** para desenvolvimento de projetos Front-End, além de estar aprendendo boas práticas para desenvolvimento de aplicativos mobile usando **Flutter**.
-- :office: &nbsp;Atualmente, estou em busca de oportunidade no cargo de desenvolvimento de software Front-end. Além de estar desenvolvendo melhor meu autoconhecimento.
+- :book: &nbsp;Estou buscando aplicar meus conhecimentos em Front-end e Mobile por meio de projetos práticos, enquanto aprimoro o meu autoconhecimento.
 - :computer: &nbsp;Gosto de ler e explorar sobre novas tecnologias, especialmente o campo de arquitetura de software e desenvolvimento mobile usando **Flutter**.
 
 <br>
