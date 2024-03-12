@@ -1,7 +1,7 @@
 <h1 align="left">Olá! :wave:</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iglyson-silva/)](https://www.linkedin.com/in/iglyson-silva/)
-[![Gmail Badge](https://img.shields.io/badge/contato@iglysonsilva.com-D14836?style=flat-the-badge&logo=gmail&logoColor=white&link=mailto:contato@iglysone.silva@gmail.com)](mailto:contato@iglysone.silva@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=flat-the-badge&logo=gmail&logoColor=white&link=mailto:contato@iglysone.silva@gmail.com)](mailto:contato@iglysone.silva@gmail.com)
 
 
 <a href="https://github.com/iglysonsilva">
